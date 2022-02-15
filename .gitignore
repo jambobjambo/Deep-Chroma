@@ -4,7 +4,7 @@ __pycache__
 
 # Images
 *.png
-*.jpg
+# *.jpg
 *.jpeg
 *.gif
 !media/**/*.jpg
